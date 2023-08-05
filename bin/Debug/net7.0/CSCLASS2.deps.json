@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CSCLASS2/1.0.0": {
+        "runtime": {
+          "CSCLASS2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSCLASS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
